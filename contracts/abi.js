@@ -1,6 +1,7 @@
 module.exports = {
     abi: [
       {
+        // this is fine
         inputs: [
           {
             internalType: "string",
